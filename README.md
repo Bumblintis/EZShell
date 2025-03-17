@@ -1,4 +1,4 @@
-This Python3 script utilizes automation of the Linux command line terminal in addition with user input from a GUI to streamline the primary meterpreter options within metasploit. Two options exist in this GUI, one for Payload Generation and one for PSEXEC for Windows.
+This Python3 script utilizes automation of the Linux command line terminal in addition to user input from a GUI to streamline the primary meterpreter options within metasploit. Two options exist in this GUI, one for Payload Generation and one for PSEXEC for Windows.
 
 
 ![image](https://github.com/user-attachments/assets/c9148ff4-b9e4-4d9f-8aca-d46373d97c81)
